@@ -1,0 +1,8 @@
+{
+  "name": "_2018_05_22Ordinario_movil",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
